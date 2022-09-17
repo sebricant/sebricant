@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sebastian Richu Antony
+- 👋 Hi, I’m Sebastian Richu Antony
 - 👀 I’m interested in Web3 & Blockchain Technology.
 - 🌱 I’m currently learning MERN Stack
 
